@@ -1,0 +1,1 @@
+Test for the requests library in python using https://open-meteo.com/ API for weather 
